@@ -110,7 +110,7 @@ Responsive breakpoints included:
 
 1. Download or clone the repository
 
-```bash
+https://suryaravichandar007-creator.github.io/Trip-Advisor-Clone/
 
 2. Open the project folder
 
